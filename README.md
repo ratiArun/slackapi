@@ -3,7 +3,7 @@
 Procedure to build and run the Slackapi tests
 
 1. Clone the slackapi repo from github branch-name :- slackapi
-    $ git clone https://github.com/ratiArun/slackapi.git
+    $ git clone https://github.com/ratiArun/slackapi.git -b slackapi
     $ cd slackapi
     
 2. Build
